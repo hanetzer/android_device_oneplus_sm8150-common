@@ -269,6 +269,13 @@ vendor/lib64/camera/com.qti.sensor.imx471.so
 vendor/lib64/camera/com.qti.sensor.imx481.so
 vendor/lib64/camera/com.qti.sensor.imx586.so
 vendor/lib64/camera/com.qti.sensor.s5k3m5.so
+vendor/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin
+vendor/lib64/camera/com.qti.sensormodule.ofilm_imx586.bin
+vendor/lib64/camera/com.qti.sensormodule.ofilm_s5k3m5.bin
+vendor/lib64/camera/com.qti.sensormodule.semco_imx481.bin
+vendor/lib64/camera/com.qti.sensormodule.semco_imx586.bin
+vendor/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin
+vendor/lib64/camera/com.qti.sensormodule.sunny_imx471.bin
 vendor/lib64/camera/com.qti.tuned.default.bin
 vendor/lib64/camera/components/com.oneplus.node.eis.so
 vendor/lib64/camera/components/com.oneplus.node.memcpy.so
@@ -666,7 +673,6 @@ vendor/lib64/hw/vendor.qti.esepowermanager@1.0-impl.so
 vendor/lib64/vendor.qti.esepowermanager@1.0.so
 
 # Fingerprint
--vendor/app/QFingerprintService/QFingerprintService.apk
 vendor/bin/qfp-daemon
 vendor/etc/permissions/qti_fingerprint_interface.xml
 vendor/lib/vendor.qti.hardware.fingerprint@1.0.so
@@ -1244,7 +1250,6 @@ vendor/lib/lib-rtpcore.so
 vendor/lib/lib-rtpsl.so
 vendor/lib/lib-siputility.so
 vendor/lib/lib-uceservice.so
-vendor/lib/libmdmdetect.so
 vendor/lib/libnlnetmgr.so
 vendor/lib/libparam_vendor.so
 vendor/lib/qtibus.so
@@ -1254,7 +1259,6 @@ vendor/lib/vendor.oneplus.hardware.param@1.0.so
 vendor/lib64/libconfigdb.so
 vendor/lib64/libdsi_netctrl.so
 vendor/lib64/liblqe.so
-vendor/lib64/libmdmdetect.so
 vendor/lib64/libnetmgr.so
 vendor/lib64/libnetmgr_common.so
 vendor/lib64/libnetmgr_nr_fusion.so
